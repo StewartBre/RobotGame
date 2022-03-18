@@ -1,0 +1,16 @@
+C:\Users\sgbre\Documents\Code\newrobot\bin\Debug\netcoreapp5.0\newrobot.exe
+C:\Users\sgbre\Documents\Code\newrobot\bin\Debug\netcoreapp5.0\newrobot.deps.json
+C:\Users\sgbre\Documents\Code\newrobot\bin\Debug\netcoreapp5.0\newrobot.runtimeconfig.json
+C:\Users\sgbre\Documents\Code\newrobot\bin\Debug\netcoreapp5.0\newrobot.runtimeconfig.dev.json
+C:\Users\sgbre\Documents\Code\newrobot\bin\Debug\netcoreapp5.0\newrobot.dll
+C:\Users\sgbre\Documents\Code\newrobot\bin\Debug\netcoreapp5.0\ref\newrobot.dll
+C:\Users\sgbre\Documents\Code\newrobot\bin\Debug\netcoreapp5.0\newrobot.pdb
+C:\Users\sgbre\Documents\Code\newrobot\obj\Debug\netcoreapp5.0\newrobot.csproj.AssemblyReference.cache
+C:\Users\sgbre\Documents\Code\newrobot\obj\Debug\netcoreapp5.0\newrobot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgbre\Documents\Code\newrobot\obj\Debug\netcoreapp5.0\newrobot.AssemblyInfoInputs.cache
+C:\Users\sgbre\Documents\Code\newrobot\obj\Debug\netcoreapp5.0\newrobot.AssemblyInfo.cs
+C:\Users\sgbre\Documents\Code\newrobot\obj\Debug\netcoreapp5.0\newrobot.csproj.CoreCompileInputs.cache
+C:\Users\sgbre\Documents\Code\newrobot\obj\Debug\netcoreapp5.0\newrobot.dll
+C:\Users\sgbre\Documents\Code\newrobot\obj\Debug\netcoreapp5.0\ref\newrobot.dll
+C:\Users\sgbre\Documents\Code\newrobot\obj\Debug\netcoreapp5.0\newrobot.pdb
+C:\Users\sgbre\Documents\Code\newrobot\obj\Debug\netcoreapp5.0\newrobot.genruntimeconfig.cache

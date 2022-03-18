@@ -1,0 +1,16 @@
+C:\Users\sgbre\Documents\Code\manyrobots\bin\Debug\netcoreapp5.0\manyrobots.exe
+C:\Users\sgbre\Documents\Code\manyrobots\bin\Debug\netcoreapp5.0\manyrobots.deps.json
+C:\Users\sgbre\Documents\Code\manyrobots\bin\Debug\netcoreapp5.0\manyrobots.runtimeconfig.json
+C:\Users\sgbre\Documents\Code\manyrobots\bin\Debug\netcoreapp5.0\manyrobots.runtimeconfig.dev.json
+C:\Users\sgbre\Documents\Code\manyrobots\bin\Debug\netcoreapp5.0\manyrobots.dll
+C:\Users\sgbre\Documents\Code\manyrobots\bin\Debug\netcoreapp5.0\ref\manyrobots.dll
+C:\Users\sgbre\Documents\Code\manyrobots\bin\Debug\netcoreapp5.0\manyrobots.pdb
+C:\Users\sgbre\Documents\Code\manyrobots\obj\Debug\netcoreapp5.0\manyrobots.csproj.AssemblyReference.cache
+C:\Users\sgbre\Documents\Code\manyrobots\obj\Debug\netcoreapp5.0\manyrobots.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgbre\Documents\Code\manyrobots\obj\Debug\netcoreapp5.0\manyrobots.AssemblyInfoInputs.cache
+C:\Users\sgbre\Documents\Code\manyrobots\obj\Debug\netcoreapp5.0\manyrobots.AssemblyInfo.cs
+C:\Users\sgbre\Documents\Code\manyrobots\obj\Debug\netcoreapp5.0\manyrobots.csproj.CoreCompileInputs.cache
+C:\Users\sgbre\Documents\Code\manyrobots\obj\Debug\netcoreapp5.0\manyrobots.dll
+C:\Users\sgbre\Documents\Code\manyrobots\obj\Debug\netcoreapp5.0\ref\manyrobots.dll
+C:\Users\sgbre\Documents\Code\manyrobots\obj\Debug\netcoreapp5.0\manyrobots.pdb
+C:\Users\sgbre\Documents\Code\manyrobots\obj\Debug\netcoreapp5.0\manyrobots.genruntimeconfig.cache

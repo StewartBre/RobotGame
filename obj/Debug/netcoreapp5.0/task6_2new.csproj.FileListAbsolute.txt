@@ -1,0 +1,16 @@
+C:\Users\sgbre\Documents\Code\task6_2new\obj\Debug\netcoreapp5.0\task6_2new.csproj.AssemblyReference.cache
+C:\Users\sgbre\Documents\Code\task6_2new\obj\Debug\netcoreapp5.0\task6_2new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgbre\Documents\Code\task6_2new\obj\Debug\netcoreapp5.0\task6_2new.AssemblyInfoInputs.cache
+C:\Users\sgbre\Documents\Code\task6_2new\obj\Debug\netcoreapp5.0\task6_2new.AssemblyInfo.cs
+C:\Users\sgbre\Documents\Code\task6_2new\obj\Debug\netcoreapp5.0\task6_2new.csproj.CoreCompileInputs.cache
+C:\Users\sgbre\Documents\Code\task6_2new\bin\Debug\netcoreapp5.0\task6_2new.exe
+C:\Users\sgbre\Documents\Code\task6_2new\bin\Debug\netcoreapp5.0\task6_2new.deps.json
+C:\Users\sgbre\Documents\Code\task6_2new\bin\Debug\netcoreapp5.0\task6_2new.runtimeconfig.json
+C:\Users\sgbre\Documents\Code\task6_2new\bin\Debug\netcoreapp5.0\task6_2new.runtimeconfig.dev.json
+C:\Users\sgbre\Documents\Code\task6_2new\bin\Debug\netcoreapp5.0\task6_2new.dll
+C:\Users\sgbre\Documents\Code\task6_2new\bin\Debug\netcoreapp5.0\ref\task6_2new.dll
+C:\Users\sgbre\Documents\Code\task6_2new\bin\Debug\netcoreapp5.0\task6_2new.pdb
+C:\Users\sgbre\Documents\Code\task6_2new\obj\Debug\netcoreapp5.0\task6_2new.dll
+C:\Users\sgbre\Documents\Code\task6_2new\obj\Debug\netcoreapp5.0\ref\task6_2new.dll
+C:\Users\sgbre\Documents\Code\task6_2new\obj\Debug\netcoreapp5.0\task6_2new.pdb
+C:\Users\sgbre\Documents\Code\task6_2new\obj\Debug\netcoreapp5.0\task6_2new.genruntimeconfig.cache

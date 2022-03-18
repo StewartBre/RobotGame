@@ -1,0 +1,16 @@
+C:\Users\sgbre\Documents\code\differentrobots\bin\Debug\netcoreapp5.0\differentrobots.exe
+C:\Users\sgbre\Documents\code\differentrobots\bin\Debug\netcoreapp5.0\differentrobots.deps.json
+C:\Users\sgbre\Documents\code\differentrobots\bin\Debug\netcoreapp5.0\differentrobots.runtimeconfig.json
+C:\Users\sgbre\Documents\code\differentrobots\bin\Debug\netcoreapp5.0\differentrobots.runtimeconfig.dev.json
+C:\Users\sgbre\Documents\code\differentrobots\bin\Debug\netcoreapp5.0\differentrobots.dll
+C:\Users\sgbre\Documents\code\differentrobots\bin\Debug\netcoreapp5.0\ref\differentrobots.dll
+C:\Users\sgbre\Documents\code\differentrobots\bin\Debug\netcoreapp5.0\differentrobots.pdb
+C:\Users\sgbre\Documents\code\differentrobots\obj\Debug\netcoreapp5.0\differentrobots.csproj.AssemblyReference.cache
+C:\Users\sgbre\Documents\code\differentrobots\obj\Debug\netcoreapp5.0\differentrobots.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgbre\Documents\code\differentrobots\obj\Debug\netcoreapp5.0\differentrobots.AssemblyInfoInputs.cache
+C:\Users\sgbre\Documents\code\differentrobots\obj\Debug\netcoreapp5.0\differentrobots.AssemblyInfo.cs
+C:\Users\sgbre\Documents\code\differentrobots\obj\Debug\netcoreapp5.0\differentrobots.csproj.CoreCompileInputs.cache
+C:\Users\sgbre\Documents\code\differentrobots\obj\Debug\netcoreapp5.0\differentrobots.dll
+C:\Users\sgbre\Documents\code\differentrobots\obj\Debug\netcoreapp5.0\ref\differentrobots.dll
+C:\Users\sgbre\Documents\code\differentrobots\obj\Debug\netcoreapp5.0\differentrobots.pdb
+C:\Users\sgbre\Documents\code\differentrobots\obj\Debug\netcoreapp5.0\differentrobots.genruntimeconfig.cache
